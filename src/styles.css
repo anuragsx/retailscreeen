@@ -1,1 +1,79 @@
 /* You can add global styles to this file, and also import other style files */
+.btn {
+	width: 55px !important;
+	font-size: 10px;
+	margin-left: 3px;
+}
+
+.text-style {
+	font-weight: bold;
+}
+
+.custom-area {
+	background-color: gray;
+	height: 400px;
+	margin-left: 10px;
+	margin-right: 10px; 
+	margin-top: 5px; 
+}
+
+.total-area {
+	background-color: black;
+	font-weight: bold;
+	font-size: 18px;
+	font-family: Arial, sans-serif;
+	height: 130px;
+	color: #33FFCE;
+	padding-top: 10px;
+	padding-left: 3px;
+}
+
+.table-class {  
+    height: 100px !important;
+    overflow: scroll;
+}
+
+.FixedHeightContainer
+{
+  height: 400px; 
+
+}
+
+.Content
+{
+  height:350px;
+  width: 100%;
+  overflow:auto;
+  background:#fff;
+}
+
+.btn-style {
+	padding-right: 2px;
+	padding-left: 2px;
+	margin-bottom: 3px;
+	height: 55px;
+	width: 59px !important;
+	font-weight: bold;
+}
+
+.button-area {
+	margin-left: 10px;
+	margin-right: 10px; 
+	margin-top: 5px; 
+}
+
+.button-pay {
+	background-color: #33FF61;
+	height: 110px;
+    width: 100px !important;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.ui-autocomplete .ui-autocomplete-input {
+    padding-right: 0.5em;
+}
+
+.admin-btn {
+	width: 82px !important;
+}
